@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supreeth B R — Developer Portfolio
 
 Welcome to my developer portfolio! This is a modern, responsive single-page web application featuring high-performance animations, fluid UI transitions, and structured profiles of my academic background, technical competencies, professional experiences, projects, and certifications.
@@ -80,3 +81,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - **Email**: [supreethbr2k5@gmail.com](mailto:supreethbr2k5@gmail.com)
 - **LinkedIn**: [linkedin.com/in/supreeth-br-5bb95b2b4](https://www.linkedin.com/in/supreeth-br-5bb95b2b4)
 - **GitHub**: [github.com/Supreethbadmi](https://github.com/Supreethbadmi)
+=======
+# Portfolio
+>>>>>>> 4a44538b6b83d7a4526569fac5ca84328a363f5a
